@@ -38,7 +38,9 @@ Improvments:
 Speed Up Color/Light Color Change Times.
 
 To Be Added In Next Update:
+
 Multiplication.
+
 Division?
 
 ------------------------------------
