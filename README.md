@@ -13,6 +13,15 @@ Want to Become A Dev? Msg On Steam: [P&C]TheLegendVinny Youll Get Alpha's And Be
 Change Log
 ------------------------------------
 
+-----------------------------------
+V0.3.0.1
+-----------------------------------
+
+Addtions:
+Simple Update Of The AI Engine Made By Me :D For Easy Develoment!
+Added Protection Of Mem Leaks.
+Added Protection Of Virus Or Leak In Code.
+
 
 ------------------------------------
 V0.3
