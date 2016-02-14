@@ -16,6 +16,9 @@ Change Log
 ------------------------------------
 V0.4!!!
 ------------------------------------
+
+The Math Update!!
+
 Additions:
 
 Added Math Commponet Only Addition And Subtraction iS W.I.P.
