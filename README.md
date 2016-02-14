@@ -17,6 +17,8 @@ Change Log
 V0.3.0.2
 ------------------------------------
 
+The Abrevation Update!
+
 Addtions:
 
 Added 2x More Abrevation For Questions!
@@ -29,13 +31,15 @@ Updated AI Engine To Version 0.2. Which Fixed Some Memory Leaks That Got Bye In 
 V0.3.0.1
 -----------------------------------
 
+The Protection Update!!
+
 Addtions:
 
 Simple Update Of The AI Engine Made By Me :D For Easy Develoment! Version 0.1!
 
 Added Protection Of Memory Leaks.
 
-Added Protection Of Virus Or Leak In Code.
+Added Protection Of Virus Or Leak In Code. V0.1
 
 
 
