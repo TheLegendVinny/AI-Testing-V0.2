@@ -19,12 +19,19 @@ THE QUESTION UPDATE!!!
 Additions:
 
 Added Over 20 New Commands!
+
 Added More Specific Logs With Times And Dates.
+
 Added Color Option! Change Text Colors!!
+
 Added Light Color Options!! Change Text Colors!
+
 Added Serach The Web.
+
 Added Options And Light To Help Menu.
+
 Added Remeber Somthing. Is Currently W.I.P
+
 
 Fixes:
 
