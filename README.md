@@ -14,6 +14,34 @@ Change Log
 ------------------------------------
 
 ------------------------------------
+V0.4!!!
+------------------------------------
+Additions:
+
+Added Math Commponet Only Addition And Subtraction iS W.I.P.
+
+Upadted Ai Engine To V0.3!!
+
+Updated Protection Leak Of Code To V0.3. Which Updated To Allow New Code To Go Though Engine.
+
+Fixes:
+
+Fixed More Dash Probs.
+
+Fixed Devmode Not Entering.
+
+Fixed Colors/Light Colors Not Changing.
+
+
+Improvments:
+
+Speed Up Color/Light Color Change Times.
+
+To Be Added In Next Update:
+Multiplication.
+Division?
+
+------------------------------------
 V0.3.0.2
 ------------------------------------
 
