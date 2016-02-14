@@ -13,15 +13,27 @@ Want to Become A Dev? Msg On Steam: [P&C]TheLegendVinny Youll Get Alpha's And Be
 Change Log
 ------------------------------------
 
+------------------------------------
+V0.3.0.2
+------------------------------------
+
+Addtions:
+
+Added 2x More Abrevation For Questions!
+
+Updated Protection Leak Of Code To V0.2. Which Updated Code To Allow White Listed Code Into Engine.
+
+Updated AI Engine To Version 0.2. Which Fixed Some Memory Leaks That Got Bye In The Last Update.
+
 -----------------------------------
 V0.3.0.1
 -----------------------------------
 
 Addtions:
 
-Simple Update Of The AI Engine Made By Me :D For Easy Develoment!
+Simple Update Of The AI Engine Made By Me :D For Easy Develoment! Version 0.1!
 
-Added Protection Of Mem Leaks.
+Added Protection Of Memory Leaks.
 
 Added Protection Of Virus Or Leak In Code.
 
