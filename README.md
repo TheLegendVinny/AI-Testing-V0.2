@@ -10,7 +10,7 @@ general questions! how heavy is the earth?, how old is the earth?, hi, hello, sa
 Want to Become A Dev? Msg On Steam: [P&C]TheLegendVinny Youll Get Alpha's And Beta's AsWell As Dev Kit + Dev Commands!
 
 ------------------------------------
-change log
+Change Log
 ------------------------------------
 V0.3
 
