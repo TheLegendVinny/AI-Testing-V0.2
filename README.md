@@ -36,33 +36,57 @@ Added Remeber Somthing. Is Currently W.I.P
 Fixes:
 
 Fixed AI Slow Loading Times For Creating Files.
+
 Fixed Start Up Message Not Displaying.
+
 Fixed Search The Web Crashing Sometimes.
+
 Fixed Startup Speak No Output To Log Or Without A Time/Date.
+
 Fixed Pressing Enter Multiple Times Would Make Ai Crash.
+
 Fixed Google Not Opening Or Long Loading.
+
 Fixed Bing Not Opening Or Long Loading.
+
 Fixed Speach Problems. Meaning It Would Say Dash Sometimes Randomly.
+
 Fixed Internet Messup. Meaning When Doing System Check(Dev Only)/Googling/Binging Would Say "Error To Local Host"
+
 
 Improvments:
 
 Long Loading/Creating File Time.
+
 Long deleting File Time
+
 Long Speak Time. Means File Would Be Created And Executed But Would Not Speak.
+
 Long Loading With Systeam Check. (Dev's Only)
+
 Long Loading When Updating/Checking Vars (Dev Only)
+
 More Detailed Logs With Times/Dates
 
+
 To Come:
+
 Even More Questions!!
+
 Even More Functions!!
+
 Talk To It??
+
 Full Screen Default Mode In Options Menu
+
 Remeber Somthing For Me (W.I.P)
+
 Say Somthing (Says Somthing For You)
+
 Dev Commands To Public??
+
 More To Be Added/Updated!!
+
 
 Have A Issue? Report It Here!
 
