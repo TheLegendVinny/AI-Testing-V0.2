@@ -18,9 +18,13 @@ V0.3.0.1
 -----------------------------------
 
 Addtions:
+
 Simple Update Of The AI Engine Made By Me :D For Easy Develoment!
+
 Added Protection Of Mem Leaks.
+
 Added Protection Of Virus Or Leak In Code.
+
 
 
 ------------------------------------
