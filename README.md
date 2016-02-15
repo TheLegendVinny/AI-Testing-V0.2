@@ -13,6 +13,55 @@ Want to Become A Dev? Msg On Steam: [P&C]TheLegendVinny Youll Get Alpha's And Be
 Change Log
 ------------------------------------
 
+-----------------------------------
+V0.5
+-----------------------------------
+Additions:
+
+Added Change Voice To Options.
+
+Added What Time Is It? Question.
+
+Added Time To Help Menu.
+
+Added Math1 Var To Devmode (Dev Only)
+
+Added Math2 Var To Devmode (Dev Only)
+
+Added Math3 Var To Devmode (Dev Only)
+
+Added Math4 Var To Devmode (Dev Only)
+
+Added Math5 Var To Devmode (Dev Only)
+
+Added Math6 Var To Devmode (Dev Only)
+
+Added Math7 Var To Devmode (Dev Only)
+
+Added Math8 Var To Devmode (Dev Only)
+
+Added 2x Abrevation!! For Most Questions.
+
+Updated AI Engine. V0.4
+
+Updated Protection Of Code/Leak To Version 0.4. To Allow Whitelisted Code Into Engine.
+
+Fixes:
+
+Fixed Color Not Inizlization.
+
+Fixed Files Not Deleting/Creating. Now Requires Admin Premissions To Launch.
+
+Improvments:
+
+Fixed Long Loading/Not Creating Files
+
+Fixed Long Deling Files
+
+Fixed Not Creating/Deleting Files. Now Requires Admin Premissions To Launch.
+
+
+
 ------------------------------------
 V0.4.0.2
 -----------------------------------
