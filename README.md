@@ -24,6 +24,8 @@ Added What Time Is It? Question.
 
 Added Time To Help Menu.
 
+Changed Who Made You/What Company Made You. Changed To Mountain High Studios Made Me.
+
 Added Math1 Var To Devmode (Dev Only)
 
 Added Math2 Var To Devmode (Dev Only)
