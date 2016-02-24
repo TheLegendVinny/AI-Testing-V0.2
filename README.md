@@ -1,5 +1,32 @@
 # AI-Testing-V0.5
 ------------------------------------
+Urgent Update About Caric AI!!
+------------------------------------
+Hello Everyone, Vinny Here Today I Have Some News About Caric AI.
+
+It Is Neither Bad Nor Good It Depends On The Way You Look At It.
+
+Mainly We Just Have A To-Do Worklist For Us, But We Would Also Like To Share It With You Guys!!
+
+Features:
+
+Speaking AI (Like Last Alpha Test)
+
+Color Options (Also Like Last Alpha Test For You Guys)
+
+Over 100 Questions And Answers. (Similar To Last AI Test For You Guys!)
+
+Code Leak Protection (Like Last AI Test But With More Advanced Architecture)
+
+LegendTime (Similar To UNIX Time But Our Own Custom One Without Time Limit That Would Break AI At Year 2038 3:48 PM Which
+
+Counts The Seconds From 1970 Like On UNIX Which Was On Last AI)
+
+Better Source Protection (Prevents Hackers From Getting Source Code Which Was Main Prob On Last Alpha Test)
+
+Custom Sound Protection/Voice
+
+------------------------------------
 Sad News :( But Also Good News!!
 ------------------------------------
 
