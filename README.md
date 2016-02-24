@@ -8,6 +8,7 @@ But I Also Have Good News!!
 We Also Have New News That Mountain High Studios Is Cancelling Our AI But, A New Form Of AI Is Inprogress!! And I Am The Lead Programmer!! I Will Be Updating The New AI As Much As I Can And Try To Keep You Guys Informed.
 The New Form Of AI Is Called Caric AI! Some Of The Same Architecture Will Be Used In Caric AI!!
 V0.3 Will Be The Version Will Be The Version That Is Realsed To Early Access!! And It Will Be Free!! *For A Limited Time During Early Access.* And I Hope You Guys Enjoyed This Update It Was Hard For Me To Write This Because Of The Man Hours I Put Into This. More Updates Will Be Realesed In March. So Dont Expect Any Updates Till Then.
+But As Always All Ideas Are On The Table Till Then. Hopfully Nothing Happens Till Realese.
 
 TheLegendVinny - Lead Programmer Mountain High Studios
 
