@@ -1,6 +1,6 @@
 # AI-Testing-V0.5
 ------------------------------------
-Big Update!!!!!!!!!!!
+Sad News :( But Also Good News!!
 ------------------------------------
 Hello Everyone, vinny Here Today I Have Some Sad News For You Guys. :(
 Today I Was Just Informed That Our AI Was Cancelled. :(
