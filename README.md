@@ -1,13 +1,16 @@
 # AI-Testing-V0.5
-This IS Just A Simple AI Ive Been Working On Its Not Good At All, But Itll Work. YOU MUST PUT IT IN A FOLDER UNLESS YOU WANT FILES EVERYWHERE
+------------------------------------
+Big Update!!!!!!!!!!!
+------------------------------------
+Hello Everyone, vinny Here Today I Have Some Sad News For You Guys. :(
+Today I Was Just Informed That Our AI Was Cancelled. :(
+But I Also Have Good News!!
+We Also Have New News That Mountain High Studios Is Cancelling Our AI But, A New Form Of AI Is Inprogress!! And I Am The Lead Programmer!! I Will Be Updating The New AI As Much As I Can And Try To Keep You Guys Informed.
+The New Form Of AI Is Called Caric AI! Some Of The Same Architecture Will Be Used In Caric AI!!
+V0.3 Will Be The Version Will Be The Version That Is Realsed To Early Access!! And It Will Be Free!! *For A Limited Time During Early Access.* And I Hope You Guys Enjoyed This Update It Was Hard For Me To Write This Because Of The Man Hours I Put Into This. More Updates Will Be Realesed In March. So Dont Expect Any Updates Till Then.
 
-AI-Testing-V0.5
-This IS Just A Simple AI Ive Been Working On Its Not Good At All, But Itll Work. YOU MUST PUT IT IN A FOLDER UNLESS YOU WANT FILES EVERYWHERE
-Welcome To The Readme! Here Will List All Of The Commands (Not the Dev Ones) *Hint* *Hint* Functions: google, open google, start google, bing, open bing, start bing, open cmd, start cmd, cmd, notepad, open notepad, start notepad, more to be added!
+TheLegendVinny - Lead Programmer Mountain High Studios
 
-general questions! how heavy is the earth?, how old is the earth?, hi, hello, say hi, say hello, who made you, what is 9+10?, maker, any issues report them here
-
-Want to Become A Dev? Msg On Steam: [P&C]TheLegendVinny Youll Get Alpha's And Beta's AsWell As Dev Kit + Dev Commands!
 
 ------------------------------------
 Change Log
