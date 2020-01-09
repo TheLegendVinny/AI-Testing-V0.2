@@ -2,11 +2,11 @@
 ------------------------------------
 Urgent Update About Caric AI!!
 ------------------------------------
-Hello Everyone, Vinny Here Today I Have Some News About Caric AI.
+Hello Everyone, Today I Have Some News About Caric AI.
 
 It Is Neither Bad Nor Good It Depends On The Way You Look At It.
 
-Mainly We Just Have A To-Do Worklist For Us, But We Would Also Like To Share It With You Guys!!
+Mainly We Just Have A To-Do Worklist For Us, But We Would Also Like To Share It With You Guys.
 
 Features:
 
@@ -17,40 +17,7 @@ Color Options (Also Like Last Alpha Test For You Guys)
 Over 100 Questions And Answers. (Similar To Last AI Test For You Guys!)
 
 Code Leak Protection (Like Last AI Test But With More Advanced Architecture)
-
-LegendTime (Similar To UNIX Time But Our Own Custom One Without Time Limit That Would Break AI At Year 2038 3:48 PM Which
-
-Counts The Seconds From 1970 Like On UNIX Which Was On Last AI)
-
-Better Source Protection (Prevents Hackers From Getting Source Code Which Was Main Prob On Last Alpha Test)
-
 Custom Sound Protection/Voice
-
-------------------------------------
-Sad News :( But Also Good News!!
-------------------------------------
-
-Hello Everyone, vinny Here Today I Have Some Sad News For You Guys. :(
-
-Today I Was Just Informed That Our AI Was Cancelled. :(
-
-But I Also Have Good News!
-
-We Also Have New News That Mountain High Studios Is Cancelling Our AI But, A New Form Of AI Is Inprogress!! And I Am The Lead
-
-Programmer!! I Will Be Updating The New AI As Much As I Can And Try To Keep You Guys Informed.
-
-The New Form Of AI Is Called Caric AI! Some Of The Same Architecture Will Be Used In Caric AI!!
-
-V0.3 Will Be The Version Will Be The Version That Is Realsed To Early Access!! And It Will Be Free!! *For A Limited Time
-
-During Early Access.* And I Hope You Guys Enjoyed This Update It Was Hard For Me To Write This Because Of The Man Hours I Put
-
-Into This. More Updates Will Be Realesed In March. So Dont Expect Any Updates Till Then.
-
-But As Always All Ideas Are On The Table Till Then. Hopfully Nothing Happens Till Realese.
-
-TheLegendVinny - Lead Programmer Mountain High Studios
 
 
 ------------------------------------
